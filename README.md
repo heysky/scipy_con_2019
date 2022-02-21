@@ -6,6 +6,7 @@ I couldn't attend every tutorial, but these seemed like fun:
 ## Monday, 8AM (Room 203) Modern Time Series Analysis
 
 * [Here](https://github.com/john-science/scipy_con_2019/tree/main/modern_time_series_analysis/) is my version of this tutorial, since it was not available online.
+* youtube: https://www.youtube.com/watch?v=v5ijNXvlC5A&ab_channel=Enthought
 
 ## Monday, 8AM (Room 106) PyTest
 
